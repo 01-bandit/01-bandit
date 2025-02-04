@@ -25,8 +25,8 @@ So, whether I'm debugging code or debugging my caffeine addiction, I'm ready to 
 
 ## 🎓 Education
 
-- **[Degree, e.g., Bachelor of Science in Computer Science]**  
-  [University Name], [Year of Graduation]
+- **Bachelor of Science in Software Engineering**  
+  National University of Computer and Emerging Sciences (FAST-NUCES), 2026
 
 - **Python For Everybody**  
   Coursera, 2023
