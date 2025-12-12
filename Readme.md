@@ -95,5 +95,3 @@ Design & Web3
 📫 Let's Connect!
 
 Feel free to reach out for collaborations, opportunities, or just a chat about tech!
-
-![Visitor Count](https://visitcount.itsvg.in/api?id=01-bandit&icon=0&color=0)
