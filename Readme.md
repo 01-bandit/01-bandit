@@ -1,6 +1,6 @@
 # Hi everyone! I'm Hammad
 
-I'm a Software Engineering student at FAST-NUCES passionate about building scalable full‑stack applications with JavaScript, Python, and modern web technologies. I specialize in React, Node.js, Django and enjoy focusing on secure and maintainable systems.
+I'm a Software Engineering student at FAST-NUCES passionate about building scalable full‑stack applications with JavaScript, Python, and modern web technologies with a keen interest in AI and Agentic Workflows. I specialize in React, Node.js, Django and enjoy focusing on secure and maintainable systems.
 
 ---
 
