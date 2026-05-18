@@ -1,97 +1,95 @@
-# Hi everyone! I'm Hammad
+Hi everyone! I'm Hammad 🚀
 
-I'm a Software Engineering student at FAST-NUCES passionate about building scalable full‑stack applications with JavaScript, Python, and modern web technologies with a keen interest in AI and Agentic Workflows. I specialize in React, Node.js, Django and enjoy focusing on secure and maintainable systems.
+I'm an Autonomous Edge AI & Full Stack Software Engineer and Software Engineering student at FAST-NUCES. I am passionate about bridging the gap between hardware constraints and scalable production software. I specialize in real-world computer vision deployment, multi-threaded optimization, hardware-sensor integration, and building advanced AI & Agentic Workflows.
 
----
+"I don't just write code; I ship products." ⚡
 
-🌐 Socials
-- GitHub: [@01-bandit](https://github.com/01-bandit)
-- LinkedIn: [Muhammad Hammad ur Rehman](https://linkedin.com/in/muhammad-hammad-ur-rehman-6133b9276)
-- Email: hammadurrehman.m.h@gmail.com
+🌐 Socials & Portfolio
 
----
+💼 Portfolio: muhammad-hammad-ur-rehman.vercel.app
+
+🔗 LinkedIn: Muhammad Hammad ur Rehman
+
+📧 Email: hammadurrehman.m.h@gmail.com
+
+💼 Experience
+
+AI Automation Intern | SiberKoza (NASTP)
+
+Sept 2025 – Dec 2025 (Rawalpindi, Pakistan)
+
+Outbound Voice AI Agent: Engineered and deployed an automated conversational voice calling agent using VAPI and Retell AI, optimizing TTS response times to achieve sub-second, human-like dialogue loops.
+
+Workflow Orchestration: Developed complex n8n automation pipelines for lead generation, integrating Waalaxy LinkedIn scraping and Apollo data enrichment, reducing manual outreach by 90%.
+
+Contextual NLP: Fine-tuned LLM system prompts on datasets extracted from live call recordings to handle objection routing and contextual state tracking.
+
+Freelance Software & Automation Engineer
+
+Jan 2024 – Present
+
+Real-Time Architectures: Built a high-concurrency barcode-less POS system for retail distribution using Next.js, Node.js, and PostgreSQL with atomic inventory locks and live analytics.
+
+Infrastructure Scaling: Standardized multi-service setups with Docker and Docker Compose, speeding up local deployment environments and onboarding cycles by 40%.
+
+Graphic Render Pipelines: Coded complex mathematical structures (contour tracing, marching squares, mesh inflation) for high-performance frontend UI canvas layouts.
 
 💻 Tech Stack
 
 Languages
-- ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-- ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-- ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 
-Frontend
-- ![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-- ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+Edge AI, Vision & Automation
 
-Backend
-- ![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-- ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-- ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
+Quantization (INT8) | VAPI / Retell AI | Tesseract OCR | Vosk STT
 
-Databases
-- ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-- ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+Frontend & Backend
 
-Tools & Platforms
-- ![Docker](https://img.shields.io/badge/docker-%23F05033.svg?style=for-the-badge&logo=docker&logoColor=white)
+Databases, DevOps & Systems
 
-Design & Web3
-- ![web3.js](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
-- Web Crypto API
-
----
-
-📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=01-bandit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=01-bandit&theme=dark)
-
-🏆 GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=01-bandit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-✍️ Random Dev Quote
-
-![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-🎓 Education
-
-- Bachelor of Science in Software Engineering — National University of Computer and Emerging Sciences (FAST-NUCES), Islamabad  
-  Expected Graduation: 2026
-
-- Python For Everybody Specialization — Coursera, 2023
-
----
+Raspberry Pi 4B | ToF Sensors | GPS NEO-6M | Web Crypto API
 
 🚀 Featured Projects
 
-- [secureChat](https://github.com/01-bandit/secureChat)  
-  End-to-end encrypted messaging application with React, Node.js, Socket.io, and Web Crypto API. Implements ECDH key exchange and AES-256-GCM encryption.  
-  Tech: React, Node.js, MongoDB, Socket.io, Web Crypto API
+🔊 Outbound Voice Agent & Outreach Engine (Built at SiberKoza)
 
-- [PF-Project](https://github.com/01-bandit/PF-Project)  
-  Complete chess implementation with game logic and UI built in C++ for Programming Fundamentals course.  
-  Tech: C++, OOP
+An AI-Native outbound calling and lead generation workflow. - Orchestrated low-latency, real-time voice call streams using VAPI and Retell AI.
 
-- [Weather-Dashboard](https://github.com/01-bandit/Weather-Dashboard)  
-  Interactive weather application with real-time data visualization and API integration.  
-  Tech: JavaScript, HTML/CSS, Weather API
+Developed automated n8n webhook pipelines integrating scraping loops and Apollo data enrichment to decrease manual pipeline tasks.
 
-- Enchanted Labyrinth Explorer — Object-oriented game with advanced mechanics (Java, OOP)
+Tech: n8n, VAPI, Retell AI, Apollo, Node.js
 
----
+🕶️ SightWise: AI-Powered Smart Glasses (FYP | Jan 2026 - Dec 2026)
 
-💼 About Me
+An offline, embedded wearable assistant for the visually impaired built on a Raspberry Pi 4B. - Status: FYP-1 Complete (System Architecture & Model Training); FYP-2 Pending (On-device Hardware Deployment).
 
-- Currently learning AI/ML and exploring blockchain technologies  
-- Passionate about full‑stack development and secure software design  
-- Looking for opportunities to transition from academic projects to real‑world applications  
-- Based in Islamabad, Pakistan  
-- Fueled by coffee and a passion for solving complex problems
+Quantized and deployed a lightweight YOLOv11-nano INT8 model (shrinking weights from 244MB to 61MB) to run at 10+ FPS locally.
 
----
+Programmed a parallel multi-threaded runtime to isolate safety-critical VL53L0X ToF distance polling from other pipeline processes, securing a sub-200ms collision hazard warning latency.
+
+Tech: Raspberry Pi, YOLOv11-nano, ToF Sensor Fusion, Vosk STT, GraphHopper routing
+
+🔒 secureChat An end-to-end encrypted real-time messaging platform prioritizing cryptography fundamentals. - Implemented End-to-End Encryption (E2EE) with secure ECDH key exchanges and AES-256-GCM data ciphers.
+
+Managed low-latency, bi-directional message routing using Socket.io and stored profile states securely in MongoDB.
+
+Tech: React, Node.js, Socket.io, Web Crypto API, MongoDB
+
+📊 GitHub Stats
+
+🏆 GitHub Trophies 
+
+✍️ Random Dev Quote 
+
+🎓 Education & Certifications
+
+Bachelor of Science in Software Engineering — FAST National University (NUCES), Islamabad (Expected Graduation: May 2026) - Python For Everybody Specialization — Coursera, 2023
+
+💼 Professional Philosophy
+
+⚡ The "Can-Do" Mentality: I approach development with an ownership mindset; I don't just write code, I ship functional products that solve business problems.
+
+🤖 AI Force Multiplier: I utilize AI tools and agentic workflows not only to write code, but to optimize it—integrating automated test generation, profiling pipelines, and minimizing development cycles.
 
 📫 Let's Connect!
 
-Feel free to reach out for collaborations, opportunities, or just a chat about tech!
+Feel free to reach out for collaborations, edge AI opportunities, or just to chat about spatial software!
