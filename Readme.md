@@ -84,11 +84,45 @@ Managed low-latency, bi-directional message routing using Socket.io and stored p
 
 Tech: React, Node.js, Socket.io, Web Crypto API, MongoDB
 
-📊 GitHub Stats
+## 📊 GitHub Stats
 
-🏆 GitHub Trophies
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=01-bandit&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 
-✍️ Random Dev Quote
+![GitHub streak](https://github-readme-streak-stats.herokuapp.com/?user=01-bandit&theme=dark)
+
+## 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=01-bandit&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+## ✍️ Random Dev Quote
+
+![Random Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+---
+
+## 🧰 Technologies & Tools
+
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
+[![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org)
+[![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)](https://reactjs.org)
+[![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)](https://nextjs.org)
+[![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
+[![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org)
+[![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)](https://www.mongodb.com)
+[![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white)](https://socket.io)
+
+[![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberry-pi&logoColor=white)](https://www.raspberrypi.org)
+[![Tesseract](https://img.shields.io/badge/Tesseract-OCR-000000?style=for-the-badge)](https://github.com/tesseract-ocr/tesseract)
+[![Vosk](https://img.shields.io/badge/Vosk-STT-0b7ec8?style=for-the-badge)](https://alphacephei.com/vosk/)
+[![YOLOv11-nano](https://img.shields.io/badge/YOLOv11--nano-ff6f61?style=for-the-badge)](#)
+[![VAPI](https://img.shields.io/badge/VAPI-API-blue?style=for-the-badge)](#)
+[![Retell AI](https://img.shields.io/badge/Retell-AI-6f42c1?style=for-the-badge)](#)
+[![n8n](https://img.shields.io/badge/n8n-000000?style=for-the-badge&logo=n8n&logoColor=white)](https://n8n.io)
+[![Apollo](https://img.shields.io/badge/Apollo-311C87?style=for-the-badge&logo=apollo-graphql&logoColor=white)](https://www.apollographql.com)
+[![GraphHopper](https://img.shields.io/badge/GraphHopper-routing-ffb13b?style=for-the-badge)](https://www.graphhopper.com)
+
 
 🎓 Education & Certifications
 
