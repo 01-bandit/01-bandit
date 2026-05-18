@@ -1,3 +1,13 @@
+
+# Muhammad Hammad ur Rehman (01-bandit)
+
+[![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/01-bandit/01-bandit?style=social)](https://github.com/01-bandit/01-bandit/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/01-bandit/01-bandit?style=social)](https://github.com/01-bandit/01-bandit/network/members)
+[![GitHub watchers](https://img.shields.io/github/watchers/01-bandit/01-bandit?style=for-the-badge&logo=github)](https://github.com/01-bandit/01-bandit/watchers)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-hammad-ur-rehman)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Website-black?style=for-the-badge&logo=vercel)](https://muhammad-hammad-ur-rehman.vercel.app)
+
 Hi everyone! I'm Hammad 🚀
 
 I'm an Autonomous Edge AI & Full Stack Software Engineer and Software Engineering student at FAST-NUCES. I am passionate about bridging the gap between hardware constraints and scalable production software. I specialize in real-world computer vision deployment, multi-threaded optimization, hardware-sensor integration, and building advanced AI & Agentic Workflows.
