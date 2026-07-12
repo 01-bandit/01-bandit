@@ -1,5 +1,5 @@
 
-# Muhammad Hammad ur Rehman (01-bandit)
+# Muhammad Hammad ur Rehman
 
 [![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative)](LICENSE)
 [![GitHub stars](https://img.shields.io/github/stars/01-bandit/01-bandit?style=social)](https://github.com/01-bandit/01-bandit/stargazers)
